@@ -55,3 +55,8 @@ MongoDB, MongoDB Atlas, PostgreSQL, MSSQL
 💼 LinkedIn: [linkedin.com/in/renaldo-jardim-240763359](https://www.linkedin.com/in/renaldo-jardim-240763359)
 
 ---
+
+## 👀 Visitor Count
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=Renaldo9&color=blue)
+
