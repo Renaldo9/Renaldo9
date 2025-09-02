@@ -30,6 +30,9 @@ MongoDB, MongoDB Atlas, PostgreSQL, MSSQL
 
 ## 🚀 Featured Projects
 
+- **[Portfolio Website](https://renaldo9.github.io/Portfolio-Website/)**
+  A website showcasing all my projects and details.
+
 - **[HandSign Detection App](https://github.com/Renaldo9/HandSign_detection)**  
   A real-time system that translates sign-language hand gestures into spoken words, improving accessibility for the hearing- and speech-impaired.
 
