@@ -2,6 +2,9 @@
 
 Welcome to my GitHub! I'm a passionate Full-Stack Software Developer who enjoys building dynamic and impactful applications.
 
+## CV:
+[RenaldoCV.pdf](https://github.com/user-attachments/files/22093040/RenaldoCV.pdf)
+
 ---
 
 ## 🌟 About Me
